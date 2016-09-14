@@ -1,0 +1,16 @@
+[
+{
+  "modid": "toxicraft",
+  "name": "ToxiCraft",
+  "description": "Mod revolving around a toxic theme.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ToxicZomboid"],
+  "credits": "ToxicZomboid, Dawsonman232 and Dakota10D",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
